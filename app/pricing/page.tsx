@@ -1,11 +1,11 @@
 import Cost from "@/components/Cost";
-import Item from "@/components/Item";
+import Special from "@/components/Special";
 
 const pricing = () => {
     return (
         <div>
             <Cost />
-            <Item />
+            <Special />
         </div>
       );
 }

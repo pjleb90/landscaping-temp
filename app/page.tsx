@@ -20,7 +20,7 @@ export default function Home() {
                     <div className="flex flex-col items-center gap-4 lg:flex-row">
                         <Link href="/contact">
                         <Button className="flex items-center py-4 text-sm font-bold text-white transition duration-300 rounded-xl">
-                            Get your free quote now.
+                            Get your free quote now
                         </Button>
                         </Link>
                         <div className="flex items-center py-4 text-sm font-medium px-7 text-dark-grey-700 hover:text-dark-grey-900 transition duration-300 rounded-2xl">
