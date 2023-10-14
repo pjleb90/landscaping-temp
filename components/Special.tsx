@@ -9,7 +9,7 @@ const Special = () => {
                         <dt className="mb-2 font-semibold leading-none text-gray-900 dark:text-white">Details</dt>
                         <dd className="mb-4 font-light text-gray-500 sm:mb-5 dark:text-gray-400">
                             By signing up for our monthly subscription service (May - Oct) for just $45 dollars a month, we'll keep your lawn in prestine condition.
-                            Your lawn will be the envy of the neighborhood while you spend time on the things ouy care about.
+                            Your lawn will be the envy of the neighborhood while you spend time on the things you care about most.
                         </dd>
                     </dl>
                     <dl className="flex items-center space-x-6">

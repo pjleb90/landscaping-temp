@@ -10,7 +10,7 @@ const about = () => {
                         <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">We love what we do</h2>
                             <p className="mb-4">It started off as just a summer job mowing lawns and that&apos;s all it took. Scott was hooked. After highschool, Scott
                             got his degree in horticulture and shortly after graduating, founded Greater Landscaping. His passion for landscaping and desire to ensure
-                            that the customer beyond satisified when he the job has gotten Greater Landscaping to where we are today.</p>
+                            that the customer is beyond satisified when he the job has gotten Greater Landscaping to where we are today.</p>
                             <p>We are passionate, driven and focused. We get the job done. And we enjoy doing it.</p>
                     </div>
                     <div className="grid grid-cols-2 gap-4 mt-8">
