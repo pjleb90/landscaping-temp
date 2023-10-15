@@ -21,10 +21,8 @@ const Navbar = () => {
           </div>
         </div>
       </Container>
-
     </div>
-
-    );
+  );
 }
 
 export default Navbar;
